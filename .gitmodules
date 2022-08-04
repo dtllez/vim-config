@@ -1,0 +1,3 @@
+[submodule "vimvamvoom"]
+	path = vimvamvoom
+	url = https://github.com/eparreno/vimvamvoom.git
